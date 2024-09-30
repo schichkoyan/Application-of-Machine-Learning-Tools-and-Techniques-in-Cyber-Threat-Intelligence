@@ -32,7 +32,3 @@ The dataset used in this project is HIKARI-2021. Due to size constraints, the da
 ## Results
 
 The project results, including metrics such as accuracy, precision, recall, F1-score, and ROC-AUC, are detailed in the notebook. Visualizations like confusion matrices and feature importance plots are also included.
-
-## Contact
-
-For any questions or issues, please contact Sarkis Chichkoyan at [s.chichkoyan@se22.qmul.ac.uk](mailto:s.chichkoyan@se22.qmul.ac.uk).
