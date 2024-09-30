@@ -8,8 +8,7 @@ This project implements a machine learning system designed to detect cyber threa
 
 The dataset used in this project is HIKARI-2021. Due to size constraints, the dataset is not included in this repository. You can download the dataset from the following links:
 
-- [Download HIKARI-2021 Dataset (Primary Link)](https://qmulprod-my.sharepoint.com/:x:/g/personal/ec22332_qmul_ac_uk/EV3KCTWGLLpLrIaEdim_0MUBUwBnF5dXS20Of6mTy9AYjw?e=jUkz71)
-- [Download HIKARI-2021 Dataset (Alternate Link)](https://zenodo.org/records/5199540)
+- [Download HIKARI-2021 Dataset](https://zenodo.org/records/5199540)
 
 ## Project Structure
 
